@@ -17,9 +17,7 @@
 [<img align="left" alt="f | LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="f | Instagram" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]:   https://twitter.com/Razat_Patkar
-[instagram]: https://www.instagram.com/rajat.js/
-[linkedin]:  https://www.linkedin.com/in/rajatpatwa/
+[linkedin]:  https://www.linkedin.com/in/thirupathi-thangavel/
 <br>
 <br />
 <br />
